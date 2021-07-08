@@ -59,10 +59,9 @@ section {
 }
 
 #home {
-    background-color: red;
+    background-color: #B22222;
     align-items: center;
-  
- 
+    
 }
 
 #sop {
@@ -73,17 +72,20 @@ section {
 }
 
 #hare {
-    background-color:red;
+    background-color: #B22222;
     color: black;
     align-items: center;
     text-align: center;
+    color: white;
 }
 
 #lima {
-    background-color: red;
+    background-color: #B22222;
     color: black;
     align-items: center;
     text-align: center;
+    color: white;
+ 
 }
 
 #fpoo {
@@ -114,7 +116,7 @@ section {
 }
 
 .btn:hover {
-    box-shadow: inset 200px 0 0 red;
+    box-shadow: inset 200px 0 0 #B22222;
 
 }
 
